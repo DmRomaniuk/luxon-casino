@@ -1,0 +1,1 @@
+export { useLocaleTheme } from './useLocaleTheme';
